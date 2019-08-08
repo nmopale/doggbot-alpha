@@ -1,0 +1,9 @@
+{
+  "token"  : "TOKEN",
+  "prefix" : "$",
+  "database" : "DB",
+  "database_ip" : "IP",
+  "database_user" : "USER",
+  "database_pass" : "PASS",
+  "database_port" : PORT
+}
